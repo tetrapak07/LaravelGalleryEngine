@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Middleware/OwlAuthMiddleware.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/Controller.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Admin/menu.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AlbomController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/WelcomeController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminImageController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminAlbomController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/SearchController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/CategoryController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Core/EloquentRepository.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminMetaAutoController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Kernel.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Request.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminPageController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminVkParserController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/ImageController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminVkParserRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminImageRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminPageRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminCategoryRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Admin/User.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Controllers/AdminSettingController.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminSettingRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Admin/bootstrap.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminMetaAutoRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Core/Exceptions/EntityNotFoundException.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Middleware/RedirectIfAuthenticated.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Requests/Admin/AdminAlbomRequest.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Commands/Command.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Admin/routes.php</file>
+            <file>file:/C:/OpenServer/domains/l5/app/Http/Middleware/VerifyCsrfToken.php</file>
+        </group>
+    </open-files>
+</project-private>
